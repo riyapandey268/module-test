@@ -1,0 +1,28 @@
+.cimg {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+  }
+  
+  .cardimg {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+  }
+  .tablestyle {
+    padding: 40px;
+  }
+  
+  .tablink a {
+    text-decoration: none;
+  }
+  .submitbut {
+    width: 200px;
+    margin-left: 15px;
+  }
+  h4 {
+    margin-bottom: 20px;
+  }
+  .row > * {
+    padding-right: 0px;
+  }
